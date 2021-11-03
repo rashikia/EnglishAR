@@ -5,7 +5,6 @@ ARFondationを用いたiphone用のAR学習アプリです。
 # Apple ID
 テストとしてアプリを入れるためにはAppleID(applestoreで使用しているメールアドレス)に許可を申請しなければいけません。
 https://forms.gle/8YKsNPY3gR7oYWgB8
-
 このurlからAppleId(メールアドレス)を教えてください。3日から1週間以内にこちらで申請を行い、アプリをインストールするためのコードをお送りします。
 
 # アプリのインストール方法（iPhoneに入れる方法)
