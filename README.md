@@ -20,3 +20,6 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 →アプリがインストールされます
 # プレイ方法
 
+# ご意見アンケートのご協力
+https://forms.gle/PUf4DXo84e4M893m6<br>
+プレイ後に上記のアンケートへのご協力お願いします。
