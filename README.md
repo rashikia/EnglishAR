@@ -14,7 +14,9 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 2.招待メールが届きます<br>
 ![image](https://user-images.githubusercontent.com/69417078/140108457-240187df-165c-43e2-a21b-4bc264b232bb.png)<br><br>
 3.iPhone/iPadでメールを表示し、メール内の「View in TestFlight」をタップ
-→TestFlightのアプリが起動
-
+→TestFlightのアプリが起動<br><br>
+4.アプリ情報が表示されるので「ACCEPT」をタップ<br>
+5.続けて「INSTALL」をタップ<br>
+→アプリがインストールされます
 # プレイ方法
 
