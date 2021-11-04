@@ -14,8 +14,7 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 2.AppleID入力フォームに回答後、testflightというサービスから招待メールが届きます<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259275-d36df2ac-b6a7-466b-b53c-146e9290b9f4.png)
 <br><br>
-3.iPhone/iPadでメールを表示し、メール内の「View in TestFlight」をタップ
-→TestFlightのアプリが起動<br><br>
+3.iPhone/iPadでメールを表示し、メール内の「View in TestFlight」という青いボタンをタップすると、TestFlightのアプリが起動されます<br><br>
 4.アプリ情報が表示されるので「同意する」をタップ<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259174-18b4764b-b4bb-4979-88a8-d4d2bcf980d7.png)
 <br><br>
