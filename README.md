@@ -24,10 +24,12 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 <br><br>
 →アプリがインストールされます
 # プレイ方法
-![image](https://user-images.githubusercontent.com/69417078/140264486-eacbd535-8723-431f-83a1-1bcd6da53683.png)<br><br>
-![image](https://user-images.githubusercontent.com/69417078/140264747-923ab726-1558-466f-8f85-756727721174.png)<br><br>
-![image](https://user-images.githubusercontent.com/69417078/140265496-ff843e3e-d483-4171-9c12-61c3fa9e2753.png)<br><br>
-![image](https://user-images.githubusercontent.com/69417078/140265792-13eb1319-5b5d-488b-bb70-79269c7b5972.png)
+![1](https://user-images.githubusercontent.com/69417078/140266975-6047ded4-a3b8-4a08-86c9-ed053eed8297.gif)
+![5](https://user-images.githubusercontent.com/69417078/140267399-77dfc537-0a72-4239-bf22-51027e466201.gif)<br><br>
+![3](https://user-images.githubusercontent.com/69417078/140267427-8679b475-a322-428c-ac70-439d7a297d26.gif)<br><br>
+![4](https://user-images.githubusercontent.com/69417078/140267444-cd9e6536-d22f-4d8e-b467-12c529058977.gif)
+<br><br>
+
 
 # ご意見アンケートのご協力
 https://forms.gle/PUf4DXo84e4M893m6<br>
