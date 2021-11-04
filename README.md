@@ -21,7 +21,7 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 5.　続けて以下のような画面で「インストール」をタップする<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259219-a83c183b-c635-411e-9dcb-65ea1b31ab50.png)
 <br><br>
-→アプリがインストールされます
+これによってアプリがインストールされます
 # プレイ方法
 左右に振って画面をタッチしてください。指に赤い球が追尾するようになったら下のselectを押してください。<br>
 ![1](https://user-images.githubusercontent.com/69417078/140266975-6047ded4-a3b8-4a08-86c9-ed053eed8297.gif)<br><br>
