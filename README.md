@@ -11,7 +11,7 @@ https://forms.gle/8YKsNPY3gR7oYWgB8 <br>
 ## TestFlightというアプリを使用してアプリをスマホに入れます
 1.最初はTestFlightをスマホにインストールする(urlからapple storeに飛べます)<br>
 https://apps.apple.com/jp/app/testflight/id899247664<br>
-urlのtestflightというアプリをインストールします。<br>
+urlのtestflightというアプリをインストールします。<br><br>
 2.招待メールが届きます<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259275-d36df2ac-b6a7-466b-b53c-146e9290b9f4.png)
 <br><br>
