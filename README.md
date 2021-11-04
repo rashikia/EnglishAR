@@ -16,10 +16,10 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 <br><br>
 3.iPhone/iPadでメールを表示し、メール内の「View in TestFlight」をタップ
 →TestFlightのアプリが起動<br><br>
-4.アプリ情報が表示されるので「同意」をタップ<br>
+4.アプリ情報が表示されるので「同意する」をタップ<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259174-18b4764b-b4bb-4979-88a8-d4d2bcf980d7.png)
 <br><br>
-5.続けて「INSTALL」をタップ<br>
+5.続けて「インストール」をタップ<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259219-a83c183b-c635-411e-9dcb-65ea1b31ab50.png)
 <br><br>
 →アプリがインストールされます
