@@ -3,7 +3,7 @@ ARFondationを用いたiphone用のAR学習アプリです。
 現状、iPhone専用のアプリなのでAndroidの方は入れることができません。
 
 # Apple ID
-テストとしてアプリを入れるためにはAppleID(applestoreで使用しているメールアドレス)に許可を申請しなければいけません。
+テストとしてアプリを入れるためにはAppleID(applestoreで使用しているメールアドレス)に許可を申請しなければいけません。<br>
 https://forms.gle/8YKsNPY3gR7oYWgB8 <br>
 このurlからAppleId(メールアドレス)を教えてください。3日から1週間以内にこちらで申請を行い、アプリをインストールするためのコードをお送りします。
 
