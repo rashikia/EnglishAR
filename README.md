@@ -9,16 +9,16 @@ https://forms.gle/8YKsNPY3gR7oYWgB8 <br>
 
 # アプリのインストール方法（iPhoneに入れる方法)
 ## TestFlightというアプリを使用してアプリをスマホに入れます
-1.最初は以下のurlからTestFlightというアプリをスマホにインストールする<br>
+1.　最初は以下のurlからTestFlightというアプリをスマホにインストールする<br>
 https://apps.apple.com/jp/app/testflight/id899247664<br><br>
-2.AppleID入力フォームに回答後、testflightというサービスから招待メールが届きます<br>
+2.　AppleID入力フォームに回答後、testflightというサービスから招待メールが届きます<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259275-d36df2ac-b6a7-466b-b53c-146e9290b9f4.png)
 <br><br>
-3.iPhone/iPadでメールを表示し、メール内の「View in TestFlight」という青いボタンをタップすると、TestFlightのアプリが起動されます<br><br>
-4.アプリ情報が表示されるので「同意する」をタップ<br>
+3.　iPhone/iPadでメールを表示し、メール内の「View in TestFlight」という青いボタンをタップすると、TestFlightのアプリが起動されます<br><br>
+4.　EnglishARのアプリ情報が表示されるので「同意する」をタップする<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259174-18b4764b-b4bb-4979-88a8-d4d2bcf980d7.png)
 <br><br>
-5.続けて「インストール」をタップ<br>
+5.　続けて「インストール」をタップする<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259219-a83c183b-c635-411e-9dcb-65ea1b31ab50.png)
 <br><br>
 →アプリがインストールされます
