@@ -1,6 +1,6 @@
 # EnglishAR
-ARFondationを用いたiphone用のAR学習アプリです。
-現状、iPhone及びiPad専用のアプリなのでAndroidの方は入れることができません。
+iphone用の英語学習用のARアプリです。<br>
+iPhone及びiPad専用のアプリなので、Androidの方は入れることができません。
 
 # Apple ID
 テストとしてアプリを入れるためにはAppleID(applestoreで使用しているメールアドレス)に許可を申請しなければいけません。<br>
