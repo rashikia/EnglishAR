@@ -1,6 +1,6 @@
 # EnglishAR
 ARFondationを用いたiphone用のAR学習アプリです。
-現状、iPhone専用のアプリなのでAndroidの方は入れることができません。
+現状、iPhone及びiPad専用のアプリなのでAndroidの方は入れることができません。
 
 # Apple ID
 テストとしてアプリを入れるためにはAppleID(applestoreで使用しているメールアドレス)に許可を申請しなければいけません。<br>
@@ -24,9 +24,13 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 <br><br>
 →アプリがインストールされます
 # プレイ方法
-![1](https://user-images.githubusercontent.com/69417078/140266975-6047ded4-a3b8-4a08-86c9-ed053eed8297.gif)
+左右に振って画面をタッチしてください。指に赤い球が追尾するようになったら下のselectを押してください。<br>
+![1](https://user-images.githubusercontent.com/69417078/140266975-6047ded4-a3b8-4a08-86c9-ed053eed8297.gif)<br><br>
+画面を2回タッチすると赤い球が飛んでいきます。その球に当たった物の英単語を表示及び発音します。<br>
 ![6](https://user-images.githubusercontent.com/69417078/140267956-6152ad0e-0eb4-430e-a704-f46deb1c1033.gif)<br><br>
+右上のメニューを押して、チャレンジモードを選択すると30秒以内に５つの物を見つけるモードになります。基本は2回タッチのみの操作で行います。冷蔵庫は赤い球を当てると開きます。<br>
 ![3](https://user-images.githubusercontent.com/69417078/140267427-8679b475-a322-428c-ac70-439d7a297d26.gif)<br><br>
+前置詞モードはりんごの位置についての例文が上に表示されます。正しい位置のりんごに赤い球を当ててください。<br>
 ![4](https://user-images.githubusercontent.com/69417078/140267444-cd9e6536-d22f-4d8e-b467-12c529058977.gif)
 <br><br>
 
