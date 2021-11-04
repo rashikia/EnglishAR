@@ -25,7 +25,7 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 →アプリがインストールされます
 # プレイ方法
 ![1](https://user-images.githubusercontent.com/69417078/140266975-6047ded4-a3b8-4a08-86c9-ed053eed8297.gif)
-![5](https://user-images.githubusercontent.com/69417078/140267399-77dfc537-0a72-4239-bf22-51027e466201.gif)<br><br>
+![6](https://user-images.githubusercontent.com/69417078/140267956-6152ad0e-0eb4-430e-a704-f46deb1c1033.gif)<br><br>
 ![3](https://user-images.githubusercontent.com/69417078/140267427-8679b475-a322-428c-ac70-439d7a297d26.gif)<br><br>
 ![4](https://user-images.githubusercontent.com/69417078/140267444-cd9e6536-d22f-4d8e-b467-12c529058977.gif)
 <br><br>
