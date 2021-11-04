@@ -12,7 +12,7 @@ https://forms.gle/8YKsNPY3gR7oYWgB8 <br>
 1.TestFlightをスマホに入れる(urlからapple storeに飛べます)<br>
 https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 2.招待メールが届きます<br>
-![image](https://user-images.githubusercontent.com/69417078/140259136-9be45657-5ec9-4742-b2cc-8184a590158c.png)
+![image](https://user-images.githubusercontent.com/69417078/140259275-d36df2ac-b6a7-466b-b53c-146e9290b9f4.png)
 <br><br>
 3.iPhone/iPadでメールを表示し、メール内の「View in TestFlight」をタップ
 →TestFlightのアプリが起動<br><br>
