@@ -1,6 +1,6 @@
 # EnglishAR
 EnglishARはiphone用の英語学習用のARアプリです。<br>
-iPhone及びiPad専用のアプリなので、Androidの方は入れることができません。
+iPhone及びiPad専用のアプリであるので、Androidの方は使用できません。
 
 # ダウンロードするためにApple IDを教えてください
 アプリをダウンロードするためにはAppleID(applestoreで使用しているメールアドレス)が事前に必要です。<br>
