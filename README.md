@@ -9,7 +9,7 @@ https://forms.gle/8YKsNPY3gR7oYWgB8 <br>
 
 # アプリのインストール方法（iPhoneに入れる方法)
 ## TestFlightというアプリを使用してアプリをスマホに入れます
-1.最初はTestFlightというアプリをスマホにインストールする(以下のurlからapple storeに飛べます)<br>
+1.最初は以下のurlからTestFlightというアプリをスマホにインストールする<br>
 https://apps.apple.com/jp/app/testflight/id899247664<br>
 testflightというアプリをインストールします。<br><br>
 2.招待メールが届きます<br>
