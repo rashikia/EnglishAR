@@ -23,7 +23,7 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 <br><br>
 これによってアプリがインストールされます
 # プレイ方法
-左右に振って画面をタッチしてください。指に赤い球が追尾するようになったら下のselectを押してください。<br>
+スマホを左右に振ってください。ある程度床を認識できると画面をタッチした時に赤い球が出現します。指に赤い球が追尾するようになったら下のselectを押してください。<br>
 ![1](https://user-images.githubusercontent.com/69417078/140266975-6047ded4-a3b8-4a08-86c9-ed053eed8297.gif)<br><br>
 画面を2回タッチすると赤い球が飛んでいきます。その球に当たった物の英単語を表示及び発音します。<br>
 ![6](https://user-images.githubusercontent.com/69417078/140267956-6152ad0e-0eb4-430e-a704-f46deb1c1033.gif)<br><br>
