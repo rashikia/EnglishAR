@@ -15,10 +15,10 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 ![image](https://user-images.githubusercontent.com/69417078/140259275-d36df2ac-b6a7-466b-b53c-146e9290b9f4.png)
 <br><br>
 3.　iPhone/iPadでメールを表示し、メール内の「View in TestFlight」という青いボタンをタップすると、TestFlightのアプリが起動されます<br><br>
-4.　EnglishARのアプリ情報が表示されるので「同意する」をタップする<br>
+4.　以下のようにEnglishARのアプリ情報が表示されるので「同意する」をタップする<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259174-18b4764b-b4bb-4979-88a8-d4d2bcf980d7.png)
 <br><br>
-5.　続けて「インストール」をタップする<br>
+5.　続けて以下のような画面で「インストール」をタップする<br>
 ![image](https://user-images.githubusercontent.com/69417078/140259219-a83c183b-c635-411e-9dcb-65ea1b31ab50.png)
 <br><br>
 →アプリがインストールされます
