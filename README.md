@@ -35,7 +35,9 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 前置詞モードはりんごの位置についての例文が上に表示されます。正しい位置のりんごに赤い球を当ててください。<br>
 ![14](https://user-images.githubusercontent.com/69417078/140611694-841795db-c8a3-4f25-a579-d1830eea7d9b.gif)
 <br><br>
-
+Listenモード
+Speechモード
+<br><br>
 
 # ご意見アンケートのご協力
 https://forms.gle/PUf4DXo84e4M893m6<br>
