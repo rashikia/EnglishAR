@@ -24,19 +24,14 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 これによってアプリがインストールされます
 # プレイ方法
 スマホを左右に振ってください。ある程度床を認識できると画面をタッチした時に赤い球が出現します。指に赤い球が追尾するようになったら下のselectを押してください。<br>
-![1](https://user-images.githubusercontent.com/69417078/140266975-6047ded4-a3b8-4a08-86c9-ed053eed8297.gif)<br>
 ![11](https://user-images.githubusercontent.com/69417078/140611659-30fc539f-46ee-4e7e-aa61-b7ec48e3c3f4.gif)<br><br>
 画面を2回タッチすると赤い球が飛んでいきます。その球に当たった物の英単語を表示及び発音します。<br>
-![6](https://user-images.githubusercontent.com/69417078/140267956-6152ad0e-0eb4-430e-a704-f46deb1c1033.gif)<br>
 ![13](https://user-images.githubusercontent.com/69417078/140611676-18bae3e8-4aa9-4409-8f5c-45d44ed1964f.gif)
 <br><br>
 右上のメニューを押して、チャレンジモードを選択すると30秒以内に５つの物を見つけるモードになります。基本は2回タッチで赤い球を飛ばすことによって操作を行います。冷蔵庫は赤い球を当てると開きます。<br>
-![3](https://user-images.githubusercontent.com/69417078/140267427-8679b475-a322-428c-ac70-439d7a297d26.gif)<br>
 ![12](https://user-images.githubusercontent.com/69417078/140611685-bdaa1088-fa47-4787-8c74-cdffe81fe50c.gif)
 <br><br>
 前置詞モードはりんごの位置についての例文が上に表示されます。正しい位置のりんごに赤い球を当ててください。<br>
-![4](https://user-images.githubusercontent.com/69417078/140267444-cd9e6536-d22f-4d8e-b467-12c529058977.gif)
-<br>
 ![14](https://user-images.githubusercontent.com/69417078/140611694-841795db-c8a3-4f25-a579-d1830eea7d9b.gif)
 <br><br>
 
