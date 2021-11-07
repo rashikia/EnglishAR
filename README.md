@@ -35,8 +35,26 @@ https://apps.apple.com/jp/app/testflight/id899247664<br><br>
 前置詞モードはりんごの位置についての例文が上に表示されます。正しい位置のりんごに赤い球を当ててください。<br>
 ![14](https://user-images.githubusercontent.com/69417078/140611694-841795db-c8a3-4f25-a579-d1830eea7d9b.gif)
 <br><br>
-
-
+<br>
+〜Speech, Listenモードまで〜<br>
+右上のメニューを押して、Speechモード, Listenモードを選択<br>
+スマートフォンを左右に振り、ある程度たったら床をタップし、プレゼントボックスを好きな位置に設置します<br>
+その後、上のSetupボタンを押し、プレゼントボックスを固定させます<br>
+最後にSpeechGame(Speechモード), ListenGame(Listenモード)を選択します<br>
+![17](https://media.giphy.com/media/zfJdURnXHidRyRA6za/giphy.gif)
+<br>
+<br>
+<br>
+・Speechモード<br>
+制限時間60秒でプレゼントボックスから出てきた物体の英単語を、スマートフォンの画面をタップして何個答えられるかのゲーム<br>
+![19](https://media.giphy.com/media/2sQNmvx4XYkyzclsyM/giphy.gif)
+<br><br>
+・Listenモード<br>
+制限時間60秒で発音された英単語を、スマートフォンの画面を動かして探しタッチしていくゲーム<br
+![20](https://media.giphy.com/media/nQZm2AdJEDVN3dBig4/giphy.gif)
+<br>
+<br>
+<br>
 # ご意見アンケートのご協力
 https://forms.gle/PUf4DXo84e4M893m6<br>
 プレイ後に上記のアンケートへのご協力お願いします。
